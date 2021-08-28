@@ -6,8 +6,8 @@ spring:
     name: caifeng
     type: com.alibaba.druid.pool.DruidDataSource
     url: jdbc:mysql://139.9.155.149:3306/caifeng?characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-    username: caifeng
-    password: 这填您的数据库密码
+    username: root
+    password: toor
     driver-class-name: com.mysql.jdbc.Driver
 #  redis:
 #    host: 139.9.155.149
